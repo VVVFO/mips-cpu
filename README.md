@@ -36,3 +36,6 @@ This is a two-stage pipelined MIPS CPU supporting a subset of MIPS instruction s
 - `sw`
 - `sub`
 - `subu`
+
+## License
+Code released under the [MIT license](https://github.com/VVVFO/mips-cpu/blob/master/LICENSE).
